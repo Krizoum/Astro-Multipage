@@ -234,7 +234,7 @@ nav .links .burger-icon span {
     position: absolute;
     bottom: 0;
     right: 50%;
-    transform: translate(50% ,15%) scale(0.7);
+    transform: translate(50% ,16%) scale(0.7);
     z-index: 3;
 }
 .landing .info {
